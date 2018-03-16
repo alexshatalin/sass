@@ -1,0 +1,31 @@
+
+// Variables
+// ---------
+@import 'variables/functions';
+@import 'variables/colors';
+@import 'variables/breakpoints';
+@import 'variables/typography';
+
+// Reset and base files
+// --------------------
+@import 'base/fonts';
+@import 'base/reset';
+@import 'base/grid_settings';
+@import 'base/page_container_settings';
+
+// Layouts
+// -------
+@import 'layout/header';
+@import 'layout/footer';
+
+// Objects
+// -------
+@import 'objects/buttons';
+@import 'objects/search_bar';
+
+// Components
+// ----------
+// @import 'components/component-name-1';
+// @import 'components/component-name-2';
+// @import 'components/component-name-3';
+// @import 'components/component-name-4';
